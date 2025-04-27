@@ -1,0 +1,6 @@
+{
+  "baseURL": "https://dev.geico.com/",
+  "username": "dev_user",
+  "password": "dev_pass",
+  "zipcode": "11111"
+}

@@ -1,0 +1,6 @@
+{
+  "baseURL": "https://user.geico.com/",
+  "username": "user_test",
+  "password": "user_pass",
+  "zipcode": "22222"
+}
